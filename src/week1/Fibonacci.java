@@ -21,7 +21,7 @@ public class Fibonacci {
         int a = in.nextInt();//считываем целое число
 
         int[] mass = new int[a+1];
-
+//
         mass[0] = 0;
         mass[1] = 1;
 
